@@ -1,74 +1,98 @@
+<!-- Intro GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="600" height="350" alt="Mario Coding GIF" />
+</p>
+
+<!-- Banner / Hero Section -->
+<p align="center">
+  <img src="https://i.ibb.co/5K3G7Zk/github-banner.gif" alt="S Aravinda Raj | Frontend Developer" width="100%" />
+</p>
+
+<!-- Introduction -->
 <h1 align="center">Hi 👋, I'm S Aravinda Raj</h1>
-<h3 align="center">Frontend Developer | Tech Enthusiast | Lifelong Learner</h3>
-
----
+<h3 align="center">🚀 Frontend Developer | React | JavaScript | Tailwind | MongoDB | SQL</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aravinda-1907&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-### 🚀 About Me  
-- 🌱 Currently exploring **Full Stack Development**  
-- 💡 Passionate about **building scalable web applications** and crafting **user-friendly UI/UX**  
-- 🎯 Goal: To continuously improve my skills and contribute to impactful projects  
-- ⚡ Fun fact: I enjoy blending creativity with logic while coding  
-
----
-
-### 🤝 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/aravinda-raj-8092a62b5" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:aravindaraj1907@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
+  <a href="https://github.com/aravinda-1907">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00E7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Tailwind+%7C+JavaScript;HTML+%7C+CSS+%7C+Bootstrap;Building+Modern+Web+Experiences" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+## 🧑‍💻 About Me
+- 🔭 I’m currently working on **Frontend & Full Stack Projects**  
+- 🌱 Exploring **Cloud, APIs, and Scalable App Architectures**  
+- 💡 Passionate about **designing responsive UIs and building interactive apps**  
+- 📫 Reach me at: **aravindaraj1907@gmail.com**  
+- 🌎 Portfolio: *(Coming Soon)*  
+
+---
+
+## 🚀 Tech Stack & Tools
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+  <!-- Backend / Database -->
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aravinda-1907&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aravinda-1907&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aravinda-1907&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravinda-1907&theme=tokyonight" alt="github streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aravinda-1907&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=aravinda-1907&theme=react-dark" />
 </p>
 
 ---
 
-### 🏆 Achievements  
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aravinda-1907&theme=onedark&margin-w=10&margin-h=10&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aravinda-1907&theme=radical&row=1&column=6" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/aravinda-raj-8092a62b5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/aravinda-1907" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:aravindaraj1907@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+<p align="center">
+  <img src="https://i.ibb.co/ZVPf74R/footer.gif" width="100%" />
+</p>
 
+<h3 align="center">⭐ If you like my work, consider giving a star to my repositories!</h3>
